@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8209195be05c5354ca22afa818a5553a
+timeCreated: 1512839296
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nexa Rust Extras
+  fontNames:
+  - Nexa Rust Extras
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
